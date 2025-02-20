@@ -1,0 +1,29 @@
+# Chopin Directories
+.nyc*
+.vscode
+bak
+/bin
+/certs
+/coverage
+/data
+/dist
+/dist*
+/logs
+/migrations
+/node_modules
+/tmp
+
+# Chopin Files
+~*
+*.log
+.env
+.env*
+!.env-example
+.yarn-integrity
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+.thumbs.db
+.hgignore
+howToRun.txt
